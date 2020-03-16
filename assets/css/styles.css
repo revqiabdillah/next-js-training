@@ -1,0 +1,12 @@
+body {
+    background-color: #ffffff;
+    padding: 20px 20px;
+    margin: 0 auto;
+    font-family: 'SF Pro Text', 'SF Pro Icons' ,'Helvetica Neue', 'Helvetica', 'arial', 'san-serif';
+}
+
+.body-content {
+    margin : 10;
+    padding: 10;
+    border : 1px solid #000;
+}
